@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm Daniel</h1>
 
+<h3 align="left">About Me:</h3>
+<p align="left">
+    Find my website here https://danielted23.github.io/
+</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://dk.linkedin.com/in/daniel-villena-askgaard-338524174?trk=people-guest_people_search-card" target="_blank">
