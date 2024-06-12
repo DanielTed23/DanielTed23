@@ -73,30 +73,24 @@
     <table>
         <tr>
             <td style="padding: 10px;">MS SQL</td>
-            <td style="padding: 10px;">JSON</td
-            >
+            <td style="padding: 10px;">JSON</td>
         </tr>
         <tr>
             <td style="padding: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="60px"></td>
-            <td style="padding: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/json/json-original.svg" width="60px"></td
-           >
+            <td style="padding: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/json/json-original.svg" width="60px"></td>
         </tr>
     </table>
 </div>
 
-<!-- Frameworks -->
+<!-- Frameworks and Software Architecture -->
 <div style="border: 1px solid #ddd; padding: 20px; border-radius: 10px; background-color: #f9f9f9; margin-bottom: 20px;">
-    <h4 align="left">Frameworks og Software Arkitektur:</h4>
+    <h4 align="left">Frameworks and Software Architecture:</h4>
     <table>
         <tr>
-            <td style="padding: 10px;">.NET</td>
-            <td style="padding: 10px;">Blazor</td
-            >
+            <td style="padding: 10px;">Blazor</td>
         </tr>
         <tr>
-            <td style="padding: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" width="60px"></td>
-            <td style="padding: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blazor/blazor-original.svg" width="60px"></td
-        >
+            <td style="padding: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blazor/blazor-original.svg" width="60px"></td>
         </tr>
     </table>
 </div>
