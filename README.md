@@ -41,13 +41,11 @@
             <td style="padding: 10px;">C#</td>
             <td style="padding: 10px;">MS SQL</td>
             <td style="padding: 10px;">.NET</td>
-            <td style="padding: 10px;">MySQL</td>
         </tr>
         <tr>
             <td style="padding: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="60px"></td>
             <td style="padding: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="60px"></td>
             <td style="padding: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" width="60px"></td>
-            <td style="padding: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="60px"></td>
         </tr>
     </table>
 </div>
