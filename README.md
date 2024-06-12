@@ -50,58 +50,34 @@
     </table>
 </div>
 
-<!-- DevOps -->
+<!-- DevOps and Data Management -->
 <div style="border: 1px solid #ddd; padding: 20px; border-radius: 10px; background-color: #f9f9f9; margin-bottom: 20px;">
-    <h4 align="left">DevOps:</h4>
+    <h4 align="left">DevOps and Data Management:</h4>
     <table>
         <tr>
             <td style="padding: 10px;">Azure</td>
             <td style="padding: 10px;">Git</td>
+            <td style="padding: 10px;">JSON</td>
         </tr>
         <tr>
             <td style="padding: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="60px"></td>
             <td style="padding: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" width="60px"></td>
-        </tr>
-    </table>
-</div>
-
-<!-- Data Import/Export -->
-<div style="border: 1px solid #ddd; padding: 20px; border-radius: 10px; background-color: #f9f9f9; margin-bottom: 20px;">
-    <h4 align="left">Data Import/Export:</h4>
-    <table>
-        <tr>
-            <td style="padding: 10px;">MS SQL</td>
-            <td style="padding: 10px;">JSON</td>
-        </tr>
-        <tr>
-            <td style="padding: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="60px"></td>
             <td style="padding: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/json/json-original.svg" width="60px"></td>
         </tr>
     </table>
 </div>
 
-<!-- Frameworks and Software Architecture -->
+<!-- Frameworks and Tools -->
 <div style="border: 1px solid #ddd; padding: 20px; border-radius: 10px; background-color: #f9f9f9; margin-bottom: 20px;">
-    <h4 align="left">Frameworks and Software Architecture:</h4>
+    <h4 align="left">Frameworks and Tools:</h4>
     <table>
         <tr>
             <td style="padding: 10px;">Blazor</td>
-        </tr>
-        <tr>
-            <td style="padding: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blazor/blazor-original.svg" width="60px"></td>
-        </tr>
-    </table>
-</div>
-
-<!-- Tools -->
-<div style="border: 1px solid #ddd; padding: 20px; border-radius: 10px; background-color: #f9f9f9; margin-bottom: 20px;">
-    <h4 align="left">Tools:</h4>
-    <table>
-        <tr>
             <td style="padding: 10px;">Photoshop</td>
             <td style="padding: 10px;">Unity</td>
         </tr>
         <tr>
+            <td style="padding: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blazor/blazor-original.svg" width="60px"></td>
             <td style="padding: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" width="60px"></td>
             <td style="padding: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="60px"></td>
         </tr>
