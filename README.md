@@ -83,6 +83,3 @@
         </tr>
     </table>
 </div>
-
-<!-- GitHub Snake Animation -->
-![GitHub Snake Animation](https://github.com/DanielTed23/DanielTed23/blob/output/snake.svg)
