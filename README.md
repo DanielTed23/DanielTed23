@@ -1,7 +1,5 @@
 <h2 align="center">Hi 👋, I'm Daniel</h2>
 
-# ![snake gif](https://github.com/DanielTed23/DanielTed23/blob/output/github-contribution-grid-snake.gif)
-
 <h3 align="left">About Me:</h3>
 <p align="left">
     Find my website here <a href="https://danielted23.github.io/" target="_blank">https://danielted23.github.io/</a>
@@ -85,3 +83,5 @@
         </tr>
     </table>
 </div>
+
+# ![snake gif](https://github.com/DanielTed23/DanielTed23/blob/output/github-contribution-grid-snake.gif)
