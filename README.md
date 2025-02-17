@@ -1,6 +1,6 @@
 <h2 align="center">Hi 👋, I'm Daniel</h2>
 
-![Profile views](https://hits.sh/github-username/hits.svg)
+![Profile views](https://hits.sh/DanielTed23/hits.svg)
 
 <h3 align="left">About Me:</h3>
 <p align="left">
