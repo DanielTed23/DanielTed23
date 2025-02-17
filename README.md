@@ -1,6 +1,7 @@
 <h2 align="center">Hi 👋, I'm Daniel</h2>
 
-![Profile views](https://hits.sh/DanielTed23/hits.svg)
+![Besøgende](https://visitor-badge.laobi.icu/badge?page_id=DanielTed23.DanielTed23)
+
 
 <h3 align="left">About Me:</h3>
 <p align="left">
