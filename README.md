@@ -26,6 +26,7 @@
             <td style="padding: 10px;">JavaScript</td>
             <td style="padding: 10px;">Bootstrap</td>
             <td style="padding: 10px;">Angular</td>
+            <td style="padding: 10px;">XML</td>
         </tr>
         <tr>
             <td style="padding: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="60px"></td>
@@ -33,6 +34,7 @@
             <td style="padding: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60px"></td>
             <td style="padding: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" width="60px"></td>
             <td style="padding: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="60px"></td>
+            <td style="padding: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xml/xml-original.svg" width="60px"></td>
         </tr>
     </table>
 </div>
@@ -67,12 +69,16 @@
             <td style="padding: 10px;">Git</td>
             <td style="padding: 10px;">JSON</td>
             <td style="padding: 10px;">Docker</td>
+            <td style="padding: 10px;">Postman</td>
+            <td style="padding: 10px;">Swagger</td>
         </tr>
         <tr>
             <td style="padding: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="60px"></td>
             <td style="padding: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" width="60px"></td>
             <td style="padding: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/json/json-original.svg" width="60px"></td>
             <td style="padding: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="60px"></td>
+            <td style="padding: 10px;"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="60px"></td>
+            <td style="padding: 10px;"><img src="https://static.cdnlogo.com/logos/s/85/swagger.svg" width="60px"></td>
         </tr>
     </table>
 </div>
@@ -84,12 +90,16 @@
         <tr>
             <td style="padding: 10px;">Blazor</td>
             <td style="padding: 10px;">MAUI</td>
+            <td style="padding: 10px;">Android Studio</td>
+            <td style="padding: 10px;">Arduino</td>
             <td style="padding: 10px;">Photoshop</td>
             <td style="padding: 10px;">Unity</td>
         </tr>
         <tr>
             <td style="padding: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blazor/blazor-original.svg" width="60px"></td>
-            <td style="padding: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnet/dotnet-original.svg" width="60px"></td> <!-- placeholder for MAUI -->
+            <td style="padding: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnet/dotnet-original.svg" width="60px"></td>
+            <td style="padding: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="60px"></td>
+            <td style="padding: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="60px"></td>
             <td style="padding: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" width="60px"></td>
             <td style="padding: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="60px"></td>
         </tr>
